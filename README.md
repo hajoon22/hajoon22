@@ -7,5 +7,6 @@
 * **[outbound-filter](https://github.com/hajoon22/outbound-filter)**: Parses filter rules and sends them to the lkm-outbound-filter over UDP.
 * **[icmp-p2p](https://github.com/hajoon22/icmp-p2p)**: A peer discovery, peer exchange, and signed message propagation protocol over ICMP.
 * **[icmp-nat-traversal](https://github.com/hajoon22/icmp-nat-traversal)**: NAT traversal using ICMP Destination Unreachable packets.
+* **[hidden-stun](https://github.com/hajoon22/hidden-stun)**: Hiding data inside the STUN transaction field.
 * **[icmp-protocol](https://github.com/hajoon22/icmp-protocol)**: A custom protocol based on ICMP tunneling.
 * **[tor-connect](https://github.com/hajoon22/tor-connect)**: A Tor based persistent client network that distributes validated proxy updates to connected clients.
